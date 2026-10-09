@@ -1,16 +1,4 @@
-﻿# Virtual Environment
-venv/
-*/venv/
-
-# Secrets & API Keys
-.env
-*/.env
-
-# Python Cache
+﻿.env
 __pycache__/
-*/__pycache__/
 *.pyc
-
-# Generated Artifacts
 *.pdf
-*.apk
